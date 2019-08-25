@@ -24,5 +24,8 @@
     <ClCompile Include="1_n_and_m_2_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1_bye_bye_company.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
