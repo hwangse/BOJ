@@ -30,5 +30,8 @@
     <ClCompile Include="1_make_rome_number.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1_two_coin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
