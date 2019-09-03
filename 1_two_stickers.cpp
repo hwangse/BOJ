@@ -19,8 +19,8 @@ int main() {
 	for (int i = 0; i < n; i++)
 		cin >> stk[i].first >> stk[i].second;
 
-	for (int i = 0; i < n - 1; i++) {
-		for (int j = 1; j < n; j++) {
+	for (int i = 0; i < n; i++) {
+		for (int j = i+1; j < n; j++) {
 			for (int k = 0; k < 4; k++) {
 				int tmpMax = -1;
 				int r1, r2, c1, c2;
